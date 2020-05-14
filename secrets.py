@@ -1,0 +1,3 @@
+client_id = "296870586c604c9bae3a25fecfff180e"
+client_secret = "4909597d0a084657b74c05390712d682"
+device_id = "39d0d880250e89afd36f97ed05137930138d5dcd"
