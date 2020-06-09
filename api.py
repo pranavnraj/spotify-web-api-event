@@ -49,6 +49,7 @@ class API:
 			track_recommendations.append(item['name'])
 			track_uris.append(item['uri'])
 		return track_recommendations, track_uris
+		
 
 	def get_recommendations(self):
 		self.get_top_artists_or_tracks("artists")
